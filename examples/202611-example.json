@@ -1,0 +1,45 @@
+{
+  "id": "202611-example",
+  "title": "2026·示例区高三期中",
+  "year": "2026-2027",
+  "month": 202611,
+  "source": "示例区",
+  "grade": 3,
+  "type": "期中",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面材料，完成各题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 209,
+      "paragraphs": [
+        {
+          "text": "①子曰：学而时习之，不亦说乎？",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请结合材料作答。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "答案：……",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "评分说明：言之成理即可。",
+      "format": {}
+    }
+  ]
+}
