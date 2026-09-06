@@ -35,21 +35,44 @@
       ]
     },
     {
+      "type": "regular",
+      "text": "链接材料：",
+      "format": {}
+    },
+    {
       "type": "material",
       "sourceid": -1,
       "paragraphs": [
         {
           "text": "[1]为己，履而行之；为人，徒能言之。（刘宝楠《论语正义》引孔安国语）",
           "format": {}
-        },
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": -1,
+      "paragraphs": [
         {
           "text": "[2]为人者，凭誉以显扬；为己者，因心以会道。（刘宝楠《论语正义》引《后汉书》）",
           "format": {}
-        },
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": -1,
+      "paragraphs": [
         {
           "text": "[3]古之学者为人，行道以利世也；今之学者为己，修身以求进也。（颜之推《颜氏家训》）",
           "format": {}
-        },
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": -1,
+      "paragraphs": [
         {
           "text": "[4]孔门不薄为人之学，惟必以为己之学树其本，未有不能为己而能为人者。（钱穆《论语新解》）",
           "format": {}
@@ -79,7 +102,7 @@
       "format": {
         "indent": {
           "kind": "paragraph",
-          "level": 1
+          "level": 2
         }
       }
     },
@@ -89,9 +112,14 @@
       "format": {
         "indent": {
           "kind": "paragraph",
-          "level": 1
+          "level": 2
         }
       }
+    },
+    {
+      "type": "note",
+      "text": "【评分说明】各2分。",
+      "format": {}
     },
     {
       "type": "regular",
@@ -110,7 +138,7 @@
     },
     {
       "type": "note",
-      "text": "【评分参考】（1）4分，（2）6分。意思对即可。",
+      "text": "【评分说明】“内涵”理解，2分;“关系”阐释，4分。",
       "format": {}
     }
   ]
