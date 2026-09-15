@@ -16,50 +16,60 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 725,
+      "sourcename": "《论语·述而》",
       "paragraphs": [
         {
-          "text": "①子以四教：文、行、忠、信。（《论语·述而》）",
+          "text": "子以四教：文、行、忠、信。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 627,
+      "sourcename": "《论语·雍也》",
       "paragraphs": [
         {
-          "text": "②子曰：“君子博学于文，约之以礼，亦可以弗畔矣夫。”（《论语·雍也》）",
+          "text": "子曰：“君子博学于文，约之以礼，亦可以弗畔矣夫。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 106,
+      "sourcename": "《论语·学而》",
       "paragraphs": [
         {
-          "text": "③子曰：“弟子入则孝，出则悌，谨而信，泛爱众，而亲仁。行有余力，则以学文。”（《论语·学而》）",
+          "text": "子曰：“弟子入则孝，出则悌，谨而信，泛爱众，而亲仁。行有余力，则以学文。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": 618,
+      "sourcename": "《论语·雍也》",
       "paragraphs": [
         {
-          "text": "④子曰：“质胜文则野，文胜质则史，文质彬彬，然后君子。”（《论语·雍也》）",
+          "text": "子曰：“质胜文则野，文胜质则史，文质彬彬，然后君子。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料⑤",
       "sourceid": 314,
+      "sourcename": "《论语·八佾》",
       "paragraphs": [
         {
-          "text": "⑤子曰：“周监于二代，郁郁乎文哉！吾从周。”（《论语·八佾》）",
+          "text": "子曰：“周监于二代，郁郁乎文哉！吾从周。”",
           "format": {}
         }
       ]

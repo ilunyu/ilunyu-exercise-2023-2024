@@ -16,20 +16,24 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 1424,
+      "sourcename": "《宪问》",
       "paragraphs": [
         {
-          "text": "①子曰：“古之学者为己，今之学者为人。”（《宪问》）",
+          "text": "子曰：“古之学者为己，今之学者为人。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 1442,
+      "sourcename": "《宪问》",
       "paragraphs": [
         {
-          "text": "②子路问君子。子曰：“修己以敬。”曰：“如斯而已乎？”曰：“修己以安人。”曰：“如斯而已乎？”曰：“修己以安百姓。修己以安百姓，尧舜其犹病诸！”（《宪问》）",
+          "text": "子路问君子。子曰：“修己以敬。”曰：“如斯而已乎？”曰：“修己以安人。”曰：“如斯而已乎？”曰：“修己以安百姓。修己以安百姓，尧舜其犹病诸！”",
           "format": {}
         }
       ]
@@ -41,40 +45,48 @@
     },
     {
       "type": "material",
+      "blocktitle": "1",
       "sourceid": -1,
+      "sourcename": "刘宝楠《论语正义》引孔安国语",
       "paragraphs": [
         {
-          "text": "[1]为己，履而行之；为人，徒能言之。（刘宝楠《论语正义》引孔安国语）",
+          "text": "为己，履而行之；为人，徒能言之。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "2",
       "sourceid": -1,
+      "sourcename": "刘宝楠《论语正义》引《后汉书》",
       "paragraphs": [
         {
-          "text": "[2]为人者，凭誉以显扬；为己者，因心以会道。（刘宝楠《论语正义》引《后汉书》）",
+          "text": "为人者，凭誉以显扬；为己者，因心以会道。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "3",
       "sourceid": -1,
+      "sourcename": "颜之推《颜氏家训》",
       "paragraphs": [
         {
-          "text": "[3]古之学者为人，行道以利世也；今之学者为己，修身以求进也。（颜之推《颜氏家训》）",
+          "text": "古之学者为人，行道以利世也；今之学者为己，修身以求进也。",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "4",
       "sourceid": -1,
+      "sourcename": "钱穆《论语新解》",
       "paragraphs": [
         {
-          "text": "[4]孔门不薄为人之学，惟必以为己之学树其本，未有不能为己而能为人者。（钱穆《论语新解》）",
+          "text": "孔门不薄为人之学，惟必以为己之学树其本，未有不能为己而能为人者。",
           "format": {}
         }
       ]
